@@ -1,7 +1,6 @@
 package com.arthur.course.resources;
 
 import com.arthur.course.entities.Order;
-import com.arthur.course.entities.User;
 import com.arthur.course.services.OrderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
